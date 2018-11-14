@@ -1,0 +1,112 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7FBEF350-2C47-4F3C-8B56-19355DF6E6F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DC047875-8112-432A-B1FC-5C46833F7923",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B24A6083-3003-4E23-BF1B-8B6FFECE86F0",
+    "height": 934,
+    "width": 1920,
+    "x": 0,
+    "y": 224
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / profile gallery",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "99E1EB16-DA9A-4DB1-91E5-C552E95A72DA",
+      "overrideName": "76CC39A7-DC3D-462E-BE87-FC67E530C14F_stringValue",
+      "value": "              Meet the Designers"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3E8AB78E-7EB1-43D5-9D76-4B0E1676ED1B",
+      "overrideName": "428E7CA5-1040-4961-9E76-FE8D295B326A_stringValue",
+      "value": "Jonathan is a hard working designer, and he pushes himself to the limit. His pieces are wonderful displays of emotion. Contact him at: jontimothy@eagles.ewu.edu"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "229E0A9F-B2A3-4C53-89FD-B51349FCBC63",
+      "overrideName": "C7B2BC34-061B-49A3-9876-9D16C4D052B2_stringValue",
+      "value": "  Student"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7FE483A0-E197-40A8-BFBE-C4499E6A8017",
+      "overrideName": "7C267DAD-838D-4649-B0D9-549F51302516_stringValue",
+      "value": "Jonathan"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "38B71B54-5A2D-4458-9A6C-D0DE14AC0410",
+      "overrideName": "C6AB5C9A-2018-4869-A609-ED2BDB214A53_stringValue",
+      "value": "Sarah is a determined designer, and she pushes herself to make beautiful paper designs. Her pieces are wonderful displays of emotion. Contact her at: sarahmakenzie@eagles.ewu.edu"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E176581E-3CDC-4B03-87B9-B5395A625655",
+      "overrideName": "F564F03A-ABFD-4257-9327-01D42CB6FBD7_stringValue",
+      "value": " Studnet"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "52C09D82-14F1-45D9-A7BD-B8CA08F8C53B",
+      "overrideName": "A09DFA31-D3A6-420C-9C36-0D922524BD09_stringValue",
+      "value": "  Sarah"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B1EAE190-0481-46AE-9322-7B711826EFAE",
+      "overrideName": "577E98F4-5584-495D-9425-8F351158ECF9_stringValue",
+      "value": "Jackson is a earnest young man trying his best to deliever to his professors. He is a senior in the program, and he pushes himself to the extreme. Contact him at: jacksonhamilton@eagles.ewu.edu"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B7202539-6D12-49D6-A87A-886BADB77717",
+      "overrideName": "607B27A3-27FE-4D1D-A62A-539201EFF09C_stringValue",
+      "value": " Studnet"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CB0543CF-D0A3-4C21-932B-90F5298B8C6C",
+      "overrideName": "8E94875E-C60D-4DB3-BD87-3A4E18C91D44_stringValue",
+      "value": "Jackson"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F1337F34-26AE-49B9-BA6F-47D4D222F1D5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F5D5E472-335F-4F10-953B-E743A7D4E614",
+  "verticalSpacing": 0
+}

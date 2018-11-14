@@ -1,0 +1,47 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "42A11DA3-F82B-4088-B943-FB6E1F0E8DA6",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "52.3",
+    "build": 67297,
+    "version": 112
+  },
+  "pages": [
+    "Page 1",
+    "Symbols"
+  ],
+  "userInfo": {
+    "com.invisionlabs.getty0": {
+      "ids": "[{\"id\":\"900416682\",\"layerId\":\"BFA26416-9B34-4E71-B1F4-CACCC6FADB93\"},{\"id\":\"912338074\",\"layerId\":\"2A6F7861-1C39-4773-BBB7-11E2F32E0CD1\"},{\"id\":\"937269072\",\"layerId\":\"2618FAC5-B59F-46FE-B75C-B02C9200FA1D\"},{\"id\":\"685637698\",\"layerId\":\"F5E0A71A-52B4-496C-B6AA-9EBDE4A7FA68\"},{\"id\":\"913599438\",\"layerId\":\"A008DE79-E442-4A9A-9DCB-0A4158A9CE16\"},{\"id\":\"155419717\",\"layerId\":\"A06DA1DA-DB60-4E98-A0A2-9F17E5722EF0\"},{\"id\":\"908596508\",\"layerId\":\"13389EA7-0F6E-4DAE-9053-6DFC1AB456E5\"},{\"id\":\"155419717\",\"layerId\":\"63CAB38E-7D60-4F83-9AC3-9FEB3E8DB013\"},{\"id\":\"155419717\",\"layerId\":\"702289DC-E525-4DA3-AB22-CC624B38EDC2\"},{\"id\":\"913599438\",\"layerId\":\"6D5AADBA-3572-4C5C-9437-656453620BD6\"},{\"id\":\"908596508\",\"layerId\":\"CBF031AC-D9C6-4C35-B81B-CF6575FA405D\"},{\"id\":\"900416682\",\"layerId\":\"85F2236E-DAA2-4D69-AF47-04EF899E34E2\"},{\"id\":\"912338074\",\"layerId\":\"0E4CC23F-D4CD-47EE-9B94-654E634955FE\"},{\"id\":\"937269072\",\"layerId\":\"4FAAE6AD-0106-4C31-A88E-8A686246FDF3\"},{\"id\":\"685637698\",\"layerId\":\"193E6F4F-A143-4ED8-8479-10650EF844ED\"},{\"id\":\"911607894\",\"layerId\":\"1C68F00E-EBC7-478C-A125-FE6DC5F6C28B\"},{\"id\":\"925420310\",\"layerId\":\"1100A657-6597-4058-9C24-5C8B96589E3B\"},{\"id\":\"964920978\",\"layerId\":\"3C3A1E0E-75D4-4775-9345-D7F79D73D767\"},{\"id\":\"964920978\",\"layerId\":\"BDDABD6D-2E29-4904-87E0-E5028AE05875\"},{\"id\":\"911607894\",\"layerId\":\"5951834A-FBA8-41E2-AB69-E11F562E1084\"},{\"id\":\"925420310\",\"layerId\":\"48AA9FCD-E5E9-4B6E-9EA1-85A6422CC5A9\"},{\"id\":\"899906832\",\"layerId\":\"530104D6-E549-4F8D-A39F-DA3C7E9E1B2F\"},{\"id\":\"854811490\",\"layerId\":\"97297978-73FD-4C43-8220-81CD21020A50\"},{\"id\":\"907837926\",\"layerId\":\"FF373387-3DF9-43A1-A695-C22AD1CB3FEA\"},{\"id\":\"854811490\",\"layerId\":\"03AC4A98-32FE-4EEE-AA79-CA70903A846D\"},{\"id\":\"899906832\",\"layerId\":\"C15ACC75-428A-48AF-BEF7-E50DDA325978\"},{\"id\":\"907837926\",\"layerId\":\"C0258BD3-A7DD-4516-BC50-5AD9585829EB\"},{\"id\":\"829570660\",\"layerId\":\"78626878-51C4-4224-B80C-60CBBFBA7D81\"},{\"id\":\"829570660\",\"layerId\":\"3CBF8CC9-C127-41E1-BDCF-1BA6AC1F0946\"},{\"id\":\"557608545\",\"layerId\":\"EC51D043-C738-4D65-B044-454D5F432385\"},{\"id\":\"890698790\",\"layerId\":\"CC78223A-CD14-4E86-8247-1405DF687FA3\"},{\"id\":\"876629044\",\"layerId\":\"01EEB54B-2B04-4A60-827A-9F151D1F0DB5\"},{\"id\":\"918365128\",\"layerId\":\"19774752-7217-4B6A-B6F6-2F0BCEF5D9E5\"},{\"id\":\"918365128\",\"layerId\":\"892AA5EF-2419-4F65-ACF4-FE32833D11B3\"},{\"id\":\"876629044\",\"layerId\":\"B530730F-6E66-48A8-AC90-AA97FD319151\"},{\"id\":\"890698790\",\"layerId\":\"422D18B2-CB95-416A-860F-5F9F41FFC19C\"}]"
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

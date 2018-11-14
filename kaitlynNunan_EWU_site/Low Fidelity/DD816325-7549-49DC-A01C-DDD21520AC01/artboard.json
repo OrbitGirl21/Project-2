@@ -1,0 +1,99 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "2EF3235C-FC88-4085-9713-E79775B2FD5A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DD816325-7549-49DC-A01C-DDD21520AC01",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "433E1FD5-8C78-4247-AFAB-8C239CE8C4D4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A038FB10-09E3-440F-8176-646ABFB91AB3",
+    "height": 2686,
+    "width": 1920,
+    "x": 10959,
+    "y": 16
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A29AA958-D7E5-428C-A9D6-C56C038BBCFD",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "E9FBECC0-80DA-46B3-A20C-732C473F7733"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D9B91176-AFFF-434E-A86D-443694080AEE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9C2F5B91-664B-43F3-BCC9-90D2F104F298"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "22EC7B96-00F6-48DA-BDB1-2873F6F4C296"
+    }
+  ],
+  "name": "Course Full List",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1080,
+    "name": "Custom Preset",
+    "offersLandscapeVariant": 0,
+    "width": 1920
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E7964D1D-7A9B-453A-9B98-B65BD17A74CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C4B9F999-077D-4518-8E88-965D24FB33A6",
+    "guides": [
+    ]
+  }
+}

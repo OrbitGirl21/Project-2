@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "75D99E05-C7A2-4698-9F29-39ED1A4EA71E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "918BBA31-45BE-4F07-8BE3-FE762335CAD5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "255FF0C6-2E69-4EE7-8632-1AE3F70E9153",
+    "height": 180,
+    "width": 375,
+    "x": 0,
+    "y": 504
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / mobile contact info",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "492271D2-1D79-48CE-A7FC-E69726530ECE",
+      "overrideName": "D70F66BD-1F93-491C-B459-838CCD6EB179_stringValue",
+      "value": "Jonathan is a hard working designer, and he pushes himself to the limit. His pieces are wonderful displays of emotion. Contact him at: jontimothy@eagles.ewu.edu"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E23A2A55-D2AD-4BD4-8E78-37792D8BF53E",
+      "overrideName": "668AB543-94F3-40CE-A946-47C89D8BD284_stringValue",
+      "value": "Jonathan"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F43532A3-2D76-44DA-BA23-04FD7AB08E03",
+      "overrideName": "6FE456A3-F985-45A7-9F65-4123090D6DC8_stringValue",
+      "value": "Sarah is a determined designer, and she pushes herself to make beautiful paper designs. Her pieces are wonderful displays of emotion. Contact her at: sarahmakenzie@eagles.ewu.edu"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BC040357-7FB9-4038-BBDE-9B41838EFA35",
+      "overrideName": "48D2AE02-A0AD-463B-B4A9-8B145008AB8A_stringValue",
+      "value": "  Sarah"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0A056166-2855-407A-9885-EA5CA714AC77",
+      "overrideName": "B08318EC-C890-4C2A-82F8-813E56CE1D1C_stringValue",
+      "value": "Jackson is a earnest young man trying his best to deliever to his professors. He is a senior in the program, and he pushes himself to the extreme. Contact him at: jacksonhamilton@eagles.ewu.edu"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "870A9D14-0537-400F-B0CF-8D17485A0B6E",
+      "overrideName": "39A223E1-D2AC-41A3-904D-B907F2CAF1DC_stringValue",
+      "value": " Jackson"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B1156F36-94BF-4731-859C-BBA3E354E99C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "18E27E5C-3C4A-437A-B639-BCB853231C8F",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,108 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "067734D5-F457-4B9C-AF5D-0B3D2AD5A698",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7CB541C3-913A-41EA-80E9-AC5F4AE63602",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4BC5D9A3-1440-4B16-8A1C-9769362D6C6B",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A0F482A0-90E7-4CB8-947A-C0A85071B5D7",
+    "height": 2686,
+    "width": 1920,
+    "x": 3179,
+    "y": -2077
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "32E84E24-B7B1-4D78-91A7-AB5FAD249F0C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "B6E196B6-99E4-42CC-9C9A-FD550202CC30"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "48495503-3362-4229-B99B-F689651426F1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "452739C9-156C-499A-9982-5E47AA6DC988"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CB1EF816-379E-4AF3-9D02-22B0D8BE749D"
+    }
+  ],
+  "name": "Course Full List",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1080,
+    "name": "Custom Preset",
+    "offersLandscapeVariant": 0,
+    "width": 1920
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "71A565D6-12CE-44D0-B16B-3B8389805747",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "991203CF-E1B3-4A21-B028-6E40CB3DC078",
+    "guides": [
+    ]
+  }
+}

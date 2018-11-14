@@ -1,0 +1,132 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "7D5D7196-F7E1-40D9-A17F-9368BBC2A722",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "339DF267-4B7F-440B-AC58-B7BDEE1013C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DF1C0E5F-32EB-4BE7-BDD1-4BAC3B3B0B08",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA40FF8B-4BE0-415F-B978-5CC83510BFAE",
+    "height": 2686,
+    "width": 1920,
+    "x": 1059,
+    "y": -2077
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3064D341-7115-43CA-AC64-13136630D46C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "DBAC18CC-99C4-4A91-AC18-D638D1E9B8A4"
+    },
+    {
+      "class": "bitmap",
+      "id": "48097F0D-F40C-4DAC-BC13-DBAC3E70D542"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2BB59973-A8A5-4088-BF58-6056C2BAA004"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D94A1545-D710-4BBB-9939-7BEEB88D74A6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C4F80D78-FD7B-4624-A4F0-095EAB5F2C27"
+    },
+    {
+      "class": "rectangle",
+      "id": "B98AFFEA-B8D2-4AB1-88D6-B7AB97A7FBE6"
+    },
+    {
+      "class": "bitmap",
+      "id": "50E8D45D-C2F3-45FC-8C89-D38182E5F493"
+    },
+    {
+      "class": "bitmap",
+      "id": "5295B59F-F42B-44FD-912E-FE42311BAD80"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "48C43C07-B337-402D-8453-DBF77C34A47E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AE3E33E4-DF0D-41F6-91AA-D55BC19EB501"
+    }
+  ],
+  "name": "Faculty ",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1080,
+    "name": "Custom Preset",
+    "offersLandscapeVariant": 0,
+    "width": 1920
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E8A3B03E-498F-43FF-9E31-C9E6029A3028",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "617C70E5-0E55-4C01-91FC-4A68B4ECF8B4",
+    "guides": [
+    ]
+  }
+}

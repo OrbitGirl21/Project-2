@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EC2781C9-0476-46C7-BF84-CC651C5E7151",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AD8F5D9C-8F0E-469D-834E-B1B30C073BC3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "505E7D0D-B474-47DC-9A9D-59C86292A296",
+    "height": 570,
+    "width": 1920,
+    "x": 0,
+    "y": 1747
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / about left",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ABF7A9B1-49DC-47F6-B2F0-2EBC4080D28A",
+      "overrideName": "236CF932-CBE7-4C31-9316-532F54F362EE_stringValue",
+      "value": "Sarah"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8D5872D2-B5E7-4980-B339-A28CD351300A",
+      "overrideName": "EFD7B086-5FA9-404E-B24D-7BEDD4079AC6_stringValue",
+      "value": "Sarah's piece is about geometric design, she is focused on bringing appealing images to the eye of the viewer. The pieces are an uproar of shapes and lines"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF583758-F43A-4A5C-A7F4-193D58D0C69C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E2E3BE59-8129-4035-8EE8-0AB2F8910A17",
+  "verticalSpacing": 0
+}

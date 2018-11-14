@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "963DFEBD-9237-483B-B93F-5F756ED33F80",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5AD5F17C-99B0-4EED-A45F-57AC7C535C2D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "50FCBA4B-AFEF-421D-8E00-59C3BD49D2C0",
+    "height": 118,
+    "width": 375,
+    "x": 0,
+    "y": 309
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / about us mobile",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "25916544-2578-4852-B69A-5ABACE9725AD",
+      "overrideName": "B41CBA77-1DFA-4A10-8AA5-E8731077FB7E_stringValue",
+      "value": "Visual Communication Design is a major where you learn skills to apply to graphic design, such as Typography, Hierarchy, and illustrative skills. It's about applying them to your designs, and making them the best they can be."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C1A9332E-76F3-41AA-A832-E1B9F562FFD2",
+      "overrideName": "C9AC814C-6107-4080-96A0-D445E128203D_stringValue",
+      "value": "About VCD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1D68C2C7-7E61-42BC-A220-7D9658221885",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "672CE56E-CB94-4E85-8FD4-EA9C17DA8CEA",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,205 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 4050,
+  "clippingMaskMode": 0,
+  "do_objectID": "5D459711-6082-401B-9266-8017F34EBBD7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1725,
+    "width": 1926,
+    "x": 3569,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "4EA4C203-085A-4AC1-A6FC-50107553EE7A"
+    },
+    {
+      "class": "rectangle",
+      "id": "D520C73F-5130-482A-97F0-EBF338FB0A14"
+    },
+    {
+      "class": "oval",
+      "id": "4F9299C6-7D5C-48C9-B520-66EBDA62CCF7"
+    },
+    {
+      "class": "oval",
+      "id": "2B317334-55DD-4A35-9ECA-20799E3C0CCF"
+    },
+    {
+      "class": "oval",
+      "id": "26C526B2-72A2-4DD1-878C-0389142AB6F4"
+    },
+    {
+      "class": "text",
+      "id": "CA2E1C93-C53A-4979-8BC3-708B338A101C"
+    },
+    {
+      "class": "text",
+      "id": "74AD771B-AB11-4251-9AA5-E9309282E260"
+    },
+    {
+      "class": "text",
+      "id": "7C3006A6-7ED5-415E-971E-5F08B08D274E"
+    },
+    {
+      "class": "text",
+      "id": "7375497B-CBA8-4CE3-88A4-E172B2EB855C"
+    },
+    {
+      "class": "text",
+      "id": "E72120EB-F618-4068-8B79-7C0B709C90EA"
+    },
+    {
+      "class": "text",
+      "id": "0BF55475-1DC2-4FE2-9451-245FF36EFA05"
+    },
+    {
+      "class": "text",
+      "id": "F91FE7C2-4343-4314-9362-D931B066493A"
+    },
+    {
+      "class": "text",
+      "id": "34558F89-D1AF-46AB-951C-54D12BD9BB38"
+    },
+    {
+      "class": "text",
+      "id": "0E73F23A-708F-4807-BC39-6BE9F1757F40"
+    },
+    {
+      "class": "text",
+      "id": "FAD99AB8-FFFC-404D-823F-43D2502480F4"
+    },
+    {
+      "class": "bitmap",
+      "id": "92839CCE-E92F-461D-8863-4E15223C9CA5"
+    },
+    {
+      "class": "rectangle",
+      "id": "474618EC-8DBC-45F4-B6D8-B80CF6BDFA6F"
+    },
+    {
+      "class": "text",
+      "id": "ECCB89EB-D1E9-4886-9E82-085C3623BAD7"
+    },
+    {
+      "class": "text",
+      "id": "475D7178-C4D3-4FD8-841C-7BE7FB955717"
+    },
+    {
+      "class": "text",
+      "id": "93906005-9C32-4730-9C55-495E8D4510F1"
+    },
+    {
+      "class": "text",
+      "id": "8062205C-F5EC-4631-BF38-80390516A93D"
+    },
+    {
+      "class": "text",
+      "id": "B63FACA5-FBF9-4EAE-82B2-D364C8885D0A"
+    },
+    {
+      "class": "text",
+      "id": "37FF418F-5FEB-4174-8CD6-D804E70F5280"
+    },
+    {
+      "class": "text",
+      "id": "272D4855-2449-46BB-ADD3-C2B093814C32"
+    },
+    {
+      "class": "text",
+      "id": "381005E3-B34F-4F56-9071-0BF941D73BDD"
+    },
+    {
+      "class": "text",
+      "id": "3FD43980-4F7C-41B5-AD1F-2C7278955696"
+    },
+    {
+      "class": "text",
+      "id": "EBFE51AB-8D75-488E-A9E4-A433145FCD27"
+    },
+    {
+      "class": "text",
+      "id": "85C66180-0CB4-441D-9712-F3C04A247FD9"
+    },
+    {
+      "class": "text",
+      "id": "5B22DF89-3B72-4E30-9FAE-0FE50DEFDD73"
+    },
+    {
+      "class": "text",
+      "id": "3FE1EDDD-2C43-49A8-A83C-0DCC125C79F4"
+    },
+    {
+      "class": "text",
+      "id": "ECE2C991-6658-4087-889C-1DE6876CD148"
+    },
+    {
+      "class": "text",
+      "id": "1930DA27-BC7B-4635-B693-101ECA2705C8"
+    },
+    {
+      "class": "text",
+      "id": "F972C431-5856-4074-992A-45FE73CBA11B"
+    }
+  ],
+  "name": "atom / meet the professors",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B0DF8448-08F1-42F9-AC86-896CECECCBDD",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

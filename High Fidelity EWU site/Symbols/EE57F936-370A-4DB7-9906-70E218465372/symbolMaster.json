@@ -1,0 +1,97 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 29,
+  "clippingMaskMode": 0,
+  "do_objectID": "EE57F936-370A-4DB7-9906-70E218465372",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 118,
+    "width": 375,
+    "x": 2120,
+    "y": 2553
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "230AFA0A-7CCC-4564-A412-A56F4D3D1978"
+    },
+    {
+      "class": "rectangle",
+      "id": "26559AD7-B00E-49C0-812F-72A5C2C1DB87"
+    },
+    {
+      "class": "text",
+      "id": "B41CBA77-1DFA-4A10-8AA5-E8731077FB7E"
+    },
+    {
+      "class": "rectangle",
+      "id": "CFD88071-5EB8-4280-8775-D42EB83EDB0D"
+    },
+    {
+      "class": "rectangle",
+      "id": "F34D34C0-FC63-41E8-8975-FFE5429A664B"
+    },
+    {
+      "class": "text",
+      "id": "C9AC814C-6107-4080-96A0-D445E128203D"
+    }
+  ],
+  "name": "molecule / about us mobile",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "672CE56E-CB94-4E85-8FD4-EA9C17DA8CEA",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

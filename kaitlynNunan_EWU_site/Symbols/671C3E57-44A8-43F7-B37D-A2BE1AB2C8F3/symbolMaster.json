@@ -1,0 +1,113 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 3,
+  "clippingMaskMode": 0,
+  "do_objectID": "671C3E57-44A8-43F7-B37D-A2BE1AB2C8F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1399,
+    "width": 2006,
+    "x": 7001,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C4634917-FC17-4A34-8E56-659B03765A57"
+    },
+    {
+      "class": "shapePath",
+      "id": "717A8F5E-D435-4031-819A-E9188C401473"
+    },
+    {
+      "class": "text",
+      "id": "36F27247-E46F-4C98-89F3-26EFE42E9790"
+    },
+    {
+      "class": "text",
+      "id": "547DCF4F-4227-43A9-9627-405168FA4FB8"
+    },
+    {
+      "class": "oval",
+      "id": "5C83E368-86F0-447D-8762-E645BA8F1623"
+    },
+    {
+      "class": "oval",
+      "id": "263D67DE-4455-4810-86A5-C3E7EE338EA3"
+    },
+    {
+      "class": "oval",
+      "id": "6D565128-7A11-4DFF-9D5E-048E6734F9CC"
+    },
+    {
+      "class": "oval",
+      "id": "B05FFAF0-6CB5-4F1E-B242-20598FFD097D"
+    },
+    {
+      "class": "oval",
+      "id": "1F02B452-F299-4DD4-9DD0-5DA687E53CFF"
+    },
+    {
+      "class": "oval",
+      "id": "C4B16039-C3DF-4B94-9478-D2F33268D813"
+    }
+  ],
+  "name": "atom / wiggle",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "560302E6-6902-4459-B9C1-1A55BA18970C",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

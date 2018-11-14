@@ -1,0 +1,113 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 3,
+  "clippingMaskMode": 0,
+  "do_objectID": "01824C11-66C9-477B-A9EF-F06D72C99A1A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 289,
+    "width": 395,
+    "x": 12087,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7B0B5B8E-22E0-40ED-9E72-35EDA71823AF"
+    },
+    {
+      "class": "shapePath",
+      "id": "F874F2A2-31A6-4CE0-A31F-272CC5C8DA65"
+    },
+    {
+      "class": "oval",
+      "id": "C4A1AE09-591E-47FF-8277-B231B568AE55"
+    },
+    {
+      "class": "oval",
+      "id": "C7C21CA7-633B-4CB3-ACE8-610EDD643752"
+    },
+    {
+      "class": "oval",
+      "id": "AB3B2D96-D0CF-4C14-B96A-CEC86742CCAB"
+    },
+    {
+      "class": "oval",
+      "id": "0CDED691-5F88-47D1-B971-5AF9677C21A0"
+    },
+    {
+      "class": "oval",
+      "id": "44B0CCF8-1C82-4356-AFE1-2029098AA890"
+    },
+    {
+      "class": "oval",
+      "id": "CB03073F-2DC2-4370-A48D-B53B6A5CDF12"
+    },
+    {
+      "class": "text",
+      "id": "266A8477-E56F-408C-AD07-EE5FD0672D5B"
+    },
+    {
+      "class": "text",
+      "id": "0E4886E4-0532-4C17-8903-3D270CDAC486"
+    }
+  ],
+  "name": "molecule / info",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F72C966E-E777-4DEA-AC24-1DC4E0FE09AA",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

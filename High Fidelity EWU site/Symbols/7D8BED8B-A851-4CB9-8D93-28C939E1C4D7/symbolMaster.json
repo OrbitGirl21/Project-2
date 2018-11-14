@@ -1,0 +1,113 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 723,
+  "clippingMaskMode": 0,
+  "do_objectID": "7D8BED8B-A851-4CB9-8D93-28C939E1C4D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 289,
+    "width": 395,
+    "x": 3074,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "0B1E74BB-9A51-42CD-AAF0-1722AA62537D"
+    },
+    {
+      "class": "shapePath",
+      "id": "C119D297-90CE-4513-B594-8FE9EB218C39"
+    },
+    {
+      "class": "oval",
+      "id": "700C8833-66F4-4397-8A01-56FBCB787EA8"
+    },
+    {
+      "class": "oval",
+      "id": "9CBB7AA4-6E32-4BB4-A56F-8BCD15608DDC"
+    },
+    {
+      "class": "oval",
+      "id": "6A92C478-DA74-4451-9584-13FDDA0577F3"
+    },
+    {
+      "class": "oval",
+      "id": "A62BD1FB-CE37-47C2-9505-DF1B46326270"
+    },
+    {
+      "class": "oval",
+      "id": "236C4420-5D23-4272-8F79-C8AC7468FAF6"
+    },
+    {
+      "class": "oval",
+      "id": "0566A9B4-7544-49CF-9430-B4AB428DF44D"
+    },
+    {
+      "class": "text",
+      "id": "D5DEE2FC-2BF2-4294-A727-41ED3E92395C"
+    },
+    {
+      "class": "text",
+      "id": "88779BC6-3A51-42E0-BEAD-3E9D3D341CA6"
+    }
+  ],
+  "name": "molecule / info",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "12B432F0-5C39-405F-9473-1E9D1E555EBD",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

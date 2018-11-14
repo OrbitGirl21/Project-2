@@ -1,0 +1,153 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 3,
+  "clippingMaskMode": 0,
+  "do_objectID": "0E4D7BF7-D455-45B4-A83F-069664C58AB3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 396,
+    "width": 375,
+    "x": 11612,
+    "y": 2275
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "23737D83-288B-4B27-B102-84AAFD460B15"
+    },
+    {
+      "class": "oval",
+      "id": "86A257AC-4CE8-4605-A39B-2CA9D6CEE0B0"
+    },
+    {
+      "class": "oval",
+      "id": "2F0B4AE2-282D-4F9C-81B6-ABCADC9DF6FD"
+    },
+    {
+      "class": "oval",
+      "id": "91B94AA0-1171-467E-9AE7-2E03399A2DEB"
+    },
+    {
+      "class": "text",
+      "id": "FB298300-685B-4F09-BDAC-597A0495B9F4"
+    },
+    {
+      "class": "text",
+      "id": "E58D7A9D-60FE-4476-9E07-154F4080AC6D"
+    },
+    {
+      "class": "text",
+      "id": "E1003F6D-E206-4363-B462-5A428FA2259B"
+    },
+    {
+      "class": "text",
+      "id": "62824B5E-36BD-4039-B857-D72EB62D4A3C"
+    },
+    {
+      "class": "text",
+      "id": "8381C8A2-11DB-47A2-AEFC-12FD5A92587D"
+    },
+    {
+      "class": "text",
+      "id": "B7E96B58-6FF6-47F7-A1B8-BD56AF6CFC66"
+    },
+    {
+      "class": "text",
+      "id": "77F556EA-E10C-4434-ACC0-204371F6CB4E"
+    },
+    {
+      "class": "oval",
+      "id": "4DD8D6DD-3ABF-487C-9DE6-E2B3127572F7"
+    },
+    {
+      "class": "oval",
+      "id": "8A9DDB89-62E6-4C0E-B2D1-0EBE617CD699"
+    },
+    {
+      "class": "oval",
+      "id": "F49275C5-7E90-45A8-A249-9BA5075E72E4"
+    },
+    {
+      "class": "text",
+      "id": "766DF5FF-DE1B-44C9-AD8C-2AB24E28DC1A"
+    },
+    {
+      "class": "text",
+      "id": "BC6F70ED-3E3E-41EE-8468-F52261FB1ECD"
+    },
+    {
+      "class": "text",
+      "id": "E1756085-E0E9-46A9-9FB1-DCC92649E173"
+    },
+    {
+      "class": "text",
+      "id": "C43595AA-E309-42E8-93C5-BB96020F1B0D"
+    },
+    {
+      "class": "text",
+      "id": "01BBB063-BF7E-4144-AA5D-16F55CF27D15"
+    },
+    {
+      "class": "text",
+      "id": "F592F5BA-F1F3-4E74-B4D5-FF0E70892D34"
+    }
+  ],
+  "name": "atom / faculty mobile",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "97C5A620-6271-427D-A770-A44924E67FB3",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

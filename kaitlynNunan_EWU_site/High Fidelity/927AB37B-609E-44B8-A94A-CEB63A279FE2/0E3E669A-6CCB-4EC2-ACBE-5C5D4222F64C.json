@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0E3E669A-6CCB-4EC2-ACBE-5C5D4222F64C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A9AA7B1E-DCB0-45CC-A746-F77853CDF2B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F0DB9B9E-C72D-47AA-A686-535B2E1192E9",
+    "height": 1178,
+    "width": 1920,
+    "x": 0,
+    "y": 1355
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom / gallery right",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "431821A6-5471-4E5A-A8CD-286CCA88EFFB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CC52ECDD-7B8D-406C-B1A2-BEF784586428",
+  "verticalSpacing": 0
+}

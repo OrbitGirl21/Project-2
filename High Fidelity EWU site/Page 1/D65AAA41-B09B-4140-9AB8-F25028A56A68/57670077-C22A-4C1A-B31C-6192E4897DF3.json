@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "57670077-C22A-4C1A-B31C-6192E4897DF3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "416ECDBB-FE38-4008-B893-48A63B2601B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B653CD0B-2BA1-45B5-ABE4-39CB2921FD02",
+    "height": 587,
+    "width": 1920,
+    "x": 0,
+    "y": 1160
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom / about right",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0CCDFD12-1474-4168-98EE-EF6F1B335A8E",
+      "overrideName": "7CAE08B4-978A-41DA-8BA3-A36E904CB58B_stringValue",
+      "value": "Jackson"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2918D8EE-029D-49D4-9843-9FAF0E2392AA",
+      "overrideName": "89F4A280-CA01-4737-88CF-6A3597AE1544_stringValue",
+      "value": "Jackson's piece is a photography mastery, he's been studying under Eric Galey for many years. His piece is titled \"perception\". An image is how you percieve it, and whether or not it means more."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EEA64FA6-980B-4439-A0A7-CDEE3476BEFD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EECBEFC9-ED6F-4C91-AF0D-14C59B5AED61",
+  "verticalSpacing": 0
+}

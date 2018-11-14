@@ -1,0 +1,121 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1368,
+  "clippingMaskMode": 0,
+  "do_objectID": "9E1750C8-9A95-4B93-9B89-5A4C4578692C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 972,
+    "width": 1920,
+    "x": 100,
+    "y": 7712
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DA4D2DFC-5CDD-4186-BD63-6210A5829B28"
+    },
+    {
+      "class": "text",
+      "id": "13523769-873C-4CD1-B9B1-D69ECD3AF01F"
+    },
+    {
+      "class": "text",
+      "id": "038A26D9-628E-4666-89BD-F75B3EF45027"
+    },
+    {
+      "class": "rectangle",
+      "id": "02104396-C2C8-47A3-B04C-722E89A7BAC6"
+    },
+    {
+      "class": "rectangle",
+      "id": "091A8B25-8879-45D8-A65B-ADAA7E026F7A"
+    },
+    {
+      "class": "rectangle",
+      "id": "21EA9565-9D91-47A6-AB7B-514C8E28B5D0"
+    },
+    {
+      "class": "text",
+      "id": "6EB7751B-ED41-4069-A718-C368BCB8401A"
+    },
+    {
+      "class": "text",
+      "id": "44F2B127-226E-4429-BA5C-C35FCAB08DC1"
+    },
+    {
+      "class": "text",
+      "id": "BD5A3150-3A37-432F-ABD2-B87FB5A1FF33"
+    },
+    {
+      "class": "group",
+      "id": "1EED7112-3CAE-45F9-AA1D-B95A442F8004"
+    },
+    {
+      "class": "group",
+      "id": "6447B3C3-FC65-43C3-8040-28E5C5D019EA"
+    },
+    {
+      "class": "group",
+      "id": "8F768C62-5D59-4306-B0C5-7E64448F9B37"
+    }
+  ],
+  "name": "atom / week events",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E9BBDDC8-7F3B-4D1F-9CB3-5016615D6C8C",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

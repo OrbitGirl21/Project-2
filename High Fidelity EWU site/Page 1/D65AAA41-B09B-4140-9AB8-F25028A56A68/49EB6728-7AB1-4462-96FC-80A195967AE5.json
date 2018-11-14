@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "49EB6728-7AB1-4462-96FC-80A195967AE5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "24241963-FB88-4C17-A53C-63AD661009F0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B55E82BC-41D3-417B-BB91-9BBB95ABF158",
+    "height": 587,
+    "width": 1920,
+    "x": 0,
+    "y": 2317
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom / about right",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0CCDFD12-1474-4168-98EE-EF6F1B335A8E",
+      "overrideName": "7CAE08B4-978A-41DA-8BA3-A36E904CB58B_stringValue",
+      "value": "Jonathan"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9339C536-1953-45D4-96E9-74AB1CFD1999",
+      "overrideName": "89F4A280-CA01-4737-88CF-6A3597AE1544_stringValue",
+      "value": "Jonathan is a paper designer, and focuses his designs on color hieracrchy with colors, and type. He is a talented student and has been working very hard in his skills."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E3FABBBB-54F7-4E0C-B7A1-D50B161C0330",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EECBEFC9-ED6F-4C91-AF0D-14C59B5AED61",
+  "verticalSpacing": 0
+}

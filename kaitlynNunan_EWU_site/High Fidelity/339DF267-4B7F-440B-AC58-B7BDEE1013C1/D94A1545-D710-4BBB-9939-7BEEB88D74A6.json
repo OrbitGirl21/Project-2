@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D94A1545-D710-4BBB-9939-7BEEB88D74A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "676FA644-203D-4DFC-86D4-567E39B2CF4D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1CCD7CAD-010F-4619-88D4-668DCDFAAECC",
+    "height": 940,
+    "width": 1926,
+    "x": 0,
+    "y": 1162
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom / meet the professors",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2442A72B-AF8C-49F7-88A9-45427B070E9B",
+      "overrideName": "81E85E0B-5452-44A0-8920-9E6C5997364C_stringValue",
+      "value": " "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "04422094-7B9C-48E3-A5F8-23A969F8CC8A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D8E2BAAE-1AAC-4905-BE0D-7E33F3C4205D",
+  "verticalSpacing": 0
+}

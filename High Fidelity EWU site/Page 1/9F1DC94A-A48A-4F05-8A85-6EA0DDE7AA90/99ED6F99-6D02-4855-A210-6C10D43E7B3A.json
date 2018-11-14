@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "99ED6F99-6D02-4855-A210-6C10D43E7B3A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0C1CB9BC-8C32-4105-9411-D2399AD4CB53",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0B6C7F3E-600B-4DF0-B311-27965634AEC4",
+    "height": 1399,
+    "width": 2006,
+    "x": -50,
+    "y": 2071
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "atom / wiggle",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1DF6C488-04AE-4622-8EBA-A61D01772DCA",
+      "overrideName": "3F105D33-94FD-43E6-967F-9B63A57C98B0_stringValue",
+      "value": "Wanting to know what kinds of classes are in the Design Major? Here are a few examples:"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6B599DFC-4FCC-4EE4-8E15-E29B36FDCD4A",
+      "overrideName": "F2E7DF7A-7C70-4690-9F7D-BB517C587322_stringValue",
+      "value": "\n- DESN 100 Drawing for Communication \n- DESN 216 Digital Foundations \n- DESN 243 Typography \n- DESN 259 History of Design \n- DESN 263 Visual Communication Design 1 \n- DESN 338 User Experience Design 1 \n- DESN 363 Visual Communication Design 2 \n- DESN 366 Production Design \n- DESN 368 Web Design 1 \n- DESN 463 Visual Communication Design 3 \n- DESN 490 Senior Capstone \n- DESN 493 Portfolio Review \n"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A5580F3F-783D-4B41-ABFC-1F46E33C5B12",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9DD9396F-2B3B-4E6B-A864-18B770CE88E2",
+  "verticalSpacing": 0
+}

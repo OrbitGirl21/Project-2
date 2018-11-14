@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "03F021BE-7A09-48D3-BF37-1EE278377584",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ADA9E5EA-396D-48E6-B134-255627FD4495",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "234FBB99-5746-4608-B1B9-7112021B1B4F",
+    "height": 180,
+    "width": 375,
+    "x": 0,
+    "y": 49
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule / mobile contact info",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "291364E8-4DFE-4923-9950-193CB40B3797",
+      "overrideName": "DB66A275-3274-4662-86A6-31FADFA93855_stringValue",
+      "value": "Meet the Designers"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "949FDC69-3B0F-4841-AAB8-B41B6441AF5C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "658BB63D-EB5E-4226-9536-04A2DC160BD4",
+  "verticalSpacing": 0
+}
